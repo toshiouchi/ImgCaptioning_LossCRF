@@ -1,0 +1,195 @@
+[テスト]: 100%
+ 21/21 [00:25<00:00,  1.25s/it, WER=0.717, BLEU=0.371]
+
+hypo: in this image we can see some food itembers bowl.
+refe: in this i can see there are red colored strawberries.
+this pic. WER : 0.6666666666666666
+this pic. BLEU: 0.47669116791531385
+test number = 1 average, WER = 0.6666666865348816, BLEU = 0.4766911566257477
+
+
+
+
+hypo: in this image we can see a group of people sitting on the chair. in front of the table.
+refe: there are few persons sitting on the chairs. here we can see monitors, keyboards, tables, and devices.
+this pic. WER : 0.9545454545454546
+this pic. BLEU: 0.5230112382851397
+test number = 2 average, WER = 0.810606062412262, BLEU = 0.4998512268066406
+
+
+
+
+hypo: in this image we can see three people are two persons standing on the background there is a building.
+refe: this image is taken outdoors. at the bottom of the there is a floor. in the background there are a few buildings with walls, windows and balconies. in the middle of the image two men and a woman are standing on the floor and they are with smiling faces.
+this pic. WER : 0.875
+this pic. BLEU: 0.1905650215587582
+test number = 3 average, WER = 0.8320706486701965, BLEU = 0.39675581455230713
+
+
+
+
+hypo: in this image we can see few plants, there are flowers. in the background there are flowers.
+refe: in this image in front there are plants. in the background of the image there is sky.
+this pic. WER : 0.631578947368421
+this pic. BLEU: 0.7188197450281005
+test number = 4 average, WER = 0.7819477319717407, BLEU = 0.47727179527282715
+
+
+
+
+hypo: this is a black and white image. in the center of the image.
+refe: this is a black and white image. in this image we can see women wearing spectacles.
+this pic. WER : 0.47368421052631576
+this pic. BLEU: 0.5950244046450917
+test number = 5 average, WER = 0.7202950716018677, BLEU = 0.5008223056793213
+
+
+
+
+hypo: in this image we can see some food item plate.
+refe: as we can see in the image there is a white color plate. in plate there is a dish.
+this pic. WER : 0.8095238095238095
+this pic. BLEU: 0.33591874058510646
+test number = 6 average, WER = 0.7351665496826172, BLEU = 0.47333845496177673
+
+
+
+
+hypo: in this image we can see a woman is holding a guitar and holding a guitar.
+refe: this image is clicked in a musical concert where there is a woman standing and she is holding a guitar in her hand. she is wearing black color dress. there is a mic in front of her and there is a bottle. she is holding a stick. there are speakers back side and there are some musical instruments on the bottom left corner.
+this pic. WER : 0.8382352941176471
+this pic. BLEU: 0.03172747452780826
+test number = 7 average, WER = 0.7498906850814819, BLEU = 0.4102511405944824
+
+
+
+
+hypo: in this image we can see a dog which is a black color.
+refe: in this image, we can see a black color dog, there is a blurred background.
+this pic. WER : 0.3888888888888889
+this pic. BLEU: 0.6182981666016651
+test number = 8 average, WER = 0.7047654390335083, BLEU = 0.436257004737854
+
+
+
+
+hypo: in this image there is a table there is a plate, there is a plate, there is a plate.
+refe: in this picture there is a bowl and a plate in the center of the image, which contains food items in it.
+this pic. WER : 0.6666666666666666
+this pic. BLEU: 0.48379351287218464
+test number = 9 average, WER = 0.7005321979522705, BLEU = 0.44153881072998047
+
+
+
+
+hypo: in this image we can see a food item plate.
+refe: in this picture i can observe some food places in the plate. the food is in brown, orange, green and red colors. it is looking like a burger. the background is completely blurred.
+this pic. WER : 0.8461538461538461
+this pic. BLEU: 0.03172675535812952
+test number = 10 average, WER = 0.7150943875312805, BLEU = 0.40055760741233826
+
+
+
+
+hypo: in this image we can see a group of people standing. in front of the table. in front of the table.
+refe: in this image i can see a person standing wearing a black shirt, blue jeans and glasses. he is holding a electronic gadget in his hand. in the background i can see few people standing, and the ceiling of the building.
+this pic. WER : 0.7446808510638298
+this pic. BLEU: 0.22484823106735385
+test number = 11 average, WER = 0.7177841067314148, BLEU = 0.3845840394496918
+
+
+
+
+hypo: in this image i can see a few people standing on the road. in the road. in the road. in the right side of the background we can see the road.
+refe: in this image we can see cars, people, banners, hoardings, tent, pole, trees, boards, and buildings. in the background there is sky.
+this pic. WER : 0.7941176470588235
+this pic. BLEU: 0.5557022938238141
+test number = 12 average, WER = 0.7241451740264893, BLEU = 0.3988438844680786
+
+
+
+
+hypo: in this image we can see two persons standing on the ground and holding a gun in his hand. in his hand.
+refe: in this image we can see two persons standing and holding the objects, there are some stones, grass, plants and trees, also we can see the sky.
+this pic. WER : 0.65625
+this pic. BLEU: 0.526560920723452
+test number = 13 average, WER = 0.71892249584198, BLEU = 0.40866830945014954
+
+
+
+
+hypo: in this image we can see a stone with some text on the background there are plants.
+refe: in front of the image there are some engravings on the headstone, around the headstone on the surface there are green leaves and dry leaves and sticks, behind the headstone there are trees and a wall.
+this pic. WER : 0.8333333333333334
+this pic. BLEU: 0.17060718461492796
+test number = 14 average, WER = 0.7270946502685547, BLEU = 0.39166393876075745
+
+
+
+
+hypo: in this image we can see a building, there is a building.
+refe: in this picture i can see building and few trees and a cloudy sky.
+this pic. WER : 0.6
+this pic. BLEU: 0.5162015694431124
+test number = 15 average, WER = 0.7186216711997986, BLEU = 0.39996641874313354
+
+
+
+
+hypo: in this image we can see a group of people standing and holding a camera and holding a camera. in the background there is a camera.
+refe: in this image there are many people in front of the building. some of them are holding camera. in the background there are buildings. there is a banner over here.
+this pic. WER : 0.6176470588235294
+this pic. BLEU: 0.5720984535941284
+test number = 16 average, WER = 0.712310791015625, BLEU = 0.4107246994972229
+
+
+
+
+hypo: in this image we can see a snake on the ground.
+refe: in this image i can see a snake on the ground. it is in black color. i can see few wooden sticks, few stones and grass.
+this pic. WER : 0.6333333333333333
+this pic. BLEU: 0.22736643766922282
+test number = 17 average, WER = 0.7076650261878967, BLEU = 0.3999388515949249
+
+
+
+
+hypo: in this image we can see a woman standing. in front of the podium. in front of the podium. in front of the podium.
+refe: in this image we can see a person standing and holding a book and to the side we can see a podium with mic and there is a laptop and some other objects on the table. we can see a person standing in the bottom right.
+this pic. WER : 0.7083333333333334
+this pic. BLEU: 0.2731270612422992
+test number = 18 average, WER = 0.7077022194862366, BLEU = 0.39289379119873047
+
+
+
+
+hypo: in this image we can see two women are two persons sitting on the right side.
+refe: in this picture i can see 2 women in front and the women right is holding a brush in her hand and i see the paint on the face of the woman on the left and in the background i see the grass and on the top left of this image i see the blue color things.
+this pic. WER : 0.8620689655172413
+this pic. BLEU: 0.07774692925897946
+test number = 19 average, WER = 0.7158267498016357, BLEU = 0.37630710005760193
+
+
+
+
+hypo: in this image we can see an animal of the water. in the water.
+refe: in this image we can see an animal, water, rocks, and leaves. at the bottom of the image we can see a person who is truncated.
+this pic. WER : 0.6451612903225806
+this pic. BLEU: 0.3346828485561563
+test number = 20 average, WER = 0.7122934460639954, BLEU = 0.374225914478302
+
+
+
+
+hypo: this is a black and white image there are standing, we can see two persons standing on the ground.
+refe: in this image we can see three people, one of them is wearing a backpack, in front of them, we can see some bags, box, also we can see some plants, grass, and trees.
+this pic. WER : 0.8095238095238095
+this pic. BLEU: 0.3135830056333735
+test number = 21 average, WER = 0.7169234752655029, BLEU = 0.3713381588459015
+
+
+
+test 21 average WER : 0.7169234955603586
+test 21 average BLEU: 0.37133815061924363
+Selection deleted
+
