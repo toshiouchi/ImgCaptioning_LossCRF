@@ -1,6 +1,6 @@
 # Testing Non-Autoregressive Image Captioning Considering CRF (Conditional Random Field) Loss
 
-# Differences from general Transformer Encoder Decoder type Image Captioning
+# Differences from general Transformer Encoder Decoder
 
 ## Feature Extractor + Encoder
 We use a pre-trained Clip for Feature Extractor + Encoder.
