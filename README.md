@@ -38,7 +38,7 @@ The parameters for calculating loss_crf are low_rank = 32, beam_size=k=256, drop
 
 ### Characteristics of CRF
 
-Cross Entropy Loss maximizes the likelihood by comparing each generated token with the training token. CRF Loss maximizes the likelihood by taking into account the relationship between the token and the next token.
+Cross Entropy Loss maximizes the likelihood by comparing each generated token with the teacher token. CRF Loss maximizes the likelihood by taking into account the relationship between the token and the next token.
 
 It seems that CRF loss is unrelated to repetition, and that Cross-Entropy Loss is what causes repetition.
 
