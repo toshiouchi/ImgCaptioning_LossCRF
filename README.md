@@ -1,5 +1,19 @@
 # Testing Non-Autoregressive Image Captioning Considering CRF (Conditional Random Field) Loss
 
+# Reference
+
+## Paper
+
+Non-Autoregressive Text Generation with Pre-trained Language Models
+
+https://arxiv.org/pdf/2102.08220
+
+## Implement
+
+NAG-BERT
+
+https://github.com/yxuansu/NAG-BERT/tree/main
+
 # Differences from general Transformer Encoder Decoder
 
 ## Feature Extractor + Encoder
