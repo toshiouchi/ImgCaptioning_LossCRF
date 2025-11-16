@@ -35,6 +35,11 @@ For both loss_crf and loss_ce, I used the calculation code from the GitHub sourc
 In the initial calculations, when the loss_ce coefficient was set to 1.0 as stated in the paper instead of 0.5, there were many repeated phrases in the inferred captions.
 
 
+## Differences between the paper and the implementation
+
+In the paper, the loss is the sum of loss_crf, loss_ce, and lca. lca is a term that considers a window around the token of interest and reduces the probability that the same token will appear within the window.
+However, this term is not taken into account in the implementation. In this calculation, lca was not included.
+
 The parameters for calculating loss_crf are low_rank = 32, beam_size=k=256, dropout = 0.0, pad_idx = tokenizer.pad_token_id.
 
 ### Characteristics of CRF
