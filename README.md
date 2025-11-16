@@ -34,12 +34,6 @@ For both loss_crf and loss_ce, I used the calculation code from the GitHub sourc
 
 In the initial calculations, when the loss_ce coefficient was set to 1.0 as stated in the paper instead of 0.5, there were many repeated phrases in the inferred captions.
 
-
-## Differences between the paper and the implementation
-
-In the paper, the loss is the sum of loss_crf, loss_ce, and lca. lca is a term that considers a window around the token of interest and reduces the probability that the same token will appear within the window.
-However, this term is not taken into account in the implementation. In this calculation, lca was not included.
-
 The parameters for calculating loss_crf are low_rank = 32, beam_size=k=256, dropout = 0.0, pad_idx = tokenizer.pad_token_id.
 
 ### Characteristics of CRF
@@ -47,6 +41,11 @@ The parameters for calculating loss_crf are low_rank = 32, beam_size=k=256, drop
 Cross Entropy Loss maximizes the likelihood by comparing each generated token with the training token. CRF Loss maximizes the likelihood by taking into account the relationship between the token and the next token.
 
 It seems that CRF loss is unrelated to repetition, and that Cross-Entropy Loss is what causes repetition.
+
+## Differences between the paper and the implementation
+
+In the paper, the loss is the sum of loss_crf, loss_ce, and lca. lca is a term that considers a window around the token of interest and reduces the probability that the same token will appear within the window.
+However, this term is not taken into account in the implementation. In this calculation, lca was not included.
 
 ## Inference Function
 
